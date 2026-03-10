@@ -17,22 +17,3 @@ Welcome to my corner of GitHub! I am a passionate and results-driven software en
 ![y0NFayaBeiWEU](https://github.com/user-attachments/assets/642528ae-b588-4c5b-8e69-d320d35a51ac)
 
 
-## 🛠️ My Toolbox
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Salesforce Core** | Apex, LWC, Aura, Visualforce, Triggers |
-| **Clouds & Platforms** | Sales Cloud, Service Cloud, Field Service, Health Cloud, CRM Analytics |
-| **Methodologies & DevOps**| Agile, Git, Org Migrations, Security & Data Modeling |
-| **Legacy & Other Skills** | .NET (C#), Oracle PL/SQL, Android Development |
-
-## 🏆 Salesforce Certifications (7x)
-
-- 🎖️ Certified Platform Developer II
-- 🎖️ Certified Platform Developer I
-- 🎖️ Certified Service Cloud Consultant
-- 🎖️ Certified Field Service Consultant
-- 🎖️ Certified Platform App Builder
-- 🎖️ Certified Administrator
-- 🎖️ Certified AI Associate
-
