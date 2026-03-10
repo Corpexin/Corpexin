@@ -15,5 +15,6 @@ Welcome to my corner of GitHub! I am a passionate and results-driven software en
 
 
 ![y0NFayaBeiWEU](https://github.com/user-attachments/assets/642528ae-b588-4c5b-8e69-d320d35a51ac)
+*(this is me, basically when I'm not working)*
 
 
