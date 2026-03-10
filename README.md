@@ -11,7 +11,7 @@ Welcome to my corner of GitHub! I am a passionate and results-driven software en
 * 🏢 Currently working as a **Salesforce Developer at the hospitality startup MEWS**, focusing on transversal initiatives across Sales Cloud and Service Cloud.
 * ☀️ Based in Málaga, Andalucía, España. Fully remote work since 2021.
 * 🏺 Enthusiastic about cyberpunk worlds & greek history!
-* 🎮 A tech geek, love gaming programming gadgets and electronics.
+* 🎮 A tech geek, love gaming, programming, gadgets and electronics.
 
 
 ![y0NFayaBeiWEU](https://github.com/user-attachments/assets/642528ae-b588-4c5b-8e69-d320d35a51ac)
