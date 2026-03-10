@@ -8,7 +8,7 @@ Welcome to my corner of GitHub! I am a passionate and results-driven software en
 
 ## 🚀 About Me
 
-* 🏢 Currently working as a **Salesforce Developer at the hospitality startup MEWS**, focusing on transversal initiatives across Sales Cloud and Service Cloud.
+* 🏢 Currently working as a **Salesforce Developer at the hospitality startup MEWS**.
 * ☀️ Based in Málaga, Spain. Fully remote work since 2021.
 * 🏺 Enthusiastic about cyberpunk worlds & greek history!
 * 🎮 A tech geek, love gaming, programming, gadgets and electronics.
